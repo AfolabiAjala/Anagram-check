@@ -8,6 +8,7 @@ For example;
 
 ### solution
 
+```
 def Anagram(w1,w2):
   #get rid of the white spaces and set to lower case
   
@@ -19,4 +20,4 @@ def Anagram(w1,w2):
   
   if len(w1) != len(w2):
     return False
-  
+  ```
